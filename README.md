@@ -52,15 +52,12 @@ This is a full-stack Task Management Application built using **React (MUI)** for
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/task-management-app.git
-   cd task-management-app
+   https://github.com/Imran00852/taskManagement-frontend.git
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   npm install
-   cd client
    npm install
    ```
 
@@ -69,25 +66,24 @@ This is a full-stack Task Management Application built using **React (MUI)** for
    - Create a `.env` file in the root directory and add:
      ```env
      MONGO_URI=your_mongodb_connection_string
-     PORT=5000
+     PORT=8080
      ```
 
 4. **Run backend server:**
 
    ```bash
-   npm run server
+   npm run dev
    ```
 
 5. **Run frontend:**
 
    ```bash
-   cd client
    npm start
    ```
 
 6. **Visit the app:**
    ```bash
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ---
