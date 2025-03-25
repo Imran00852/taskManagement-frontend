@@ -1,1 +1,1 @@
-export const server = "http://localhost:8080/api";
+export const server = "https://taskmanagement-backend-7p5x.onrender.com";
