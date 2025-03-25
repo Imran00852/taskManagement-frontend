@@ -28,8 +28,6 @@ This is a full-stack Task Management Application built using **React (MUI)** for
 
 ![Task Updated](./src/screenshots/task_updated.png)
 
-_(Take screenshots and save them in a `screenshots/` folder to link properly.)_
-
 ---
 
 ## 🛠️ Tech Stack
