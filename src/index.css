@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(246, 232, 232) !important;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  border-radius: 10px;
+}
+.link:hover {
+  background-color: rgb(181, 178, 177);
+}
